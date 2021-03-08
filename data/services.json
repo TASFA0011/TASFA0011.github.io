@@ -1,0 +1,101 @@
+{
+    "services": [
+        {
+            "title": "PELLE HYDRAULIQUE 345C",
+            "description": "Disponible en location pour vos differents travaux.",
+            "serviceType": "engin-lourd",
+            "imageUrl": "service_images/engin1.jpg"
+        },  {
+            "title": "BULLDOZER D8",
+            "description": "Disponible en location pour vos differents travaux.",
+            "serviceType": "engin-lourd",
+            "imageUrl": "service_images/engin2.jpg"
+        },  {
+            "title": " NIVELEUSES 160H",
+            "description": "Disponible en location pour vos differents travaux.",
+            "serviceType": "engin-lourd",
+            "imageUrl": "service_images/engin3.jpg"
+        },  {
+            "title": "COMPACTOR SEM 522",
+            "description": "Disponible en location pour vos differents travaux.",
+            "serviceType": "engin-lourd",
+            "imageUrl": "service_images/engin4.jpg"
+        }, {
+            "title": " CHARGEUSES 980 G",
+            "description": "Disponible en location pour vos differents travaux.",
+            "serviceType": "engin-lourd",
+            "imageUrl": "service_images/engin5.jpg"
+        } , {
+            "title": " FOREUSE 1500 I",
+            "description": "Disponible en location pour vos differents travaux.",
+            "serviceType": "engin-lourd",
+            "imageUrl": "service_images/engin6.jpg"
+        }
+        ,  {
+            "title": " Olympian GEP 110",
+            "description": "Disponible en location pour vos differents travaux.",
+            "serviceType": "engin-lourd",
+            "imageUrl": "service_images/engin7.jpg"
+        }, {
+            "title": "Olympian gep-18-4",
+            "description": "Disponible en location pour vos differents travaux.",
+            "serviceType": "engin-lourd",
+            "imageUrl": "service_images/engin8.jpg"
+        }, {
+            "title": "MINI BUS",
+            "description": "Disponible en location pour vos differents deplacements.",
+            "serviceType": "vehicule",
+            "imageUrl": "service_images/voiture1.jpg"
+        }, {
+            "title": "TOYOTA HILUX",
+            "description": "Disponible en location pour vos differents deplacements.",
+            "serviceType": "vehicule",
+            "imageUrl": "service_images/voiture2.jpg"
+        }, {
+            "title": "POLYTANK 1000 litre",
+            "description": "Disponible en vente.",
+            "serviceType": "vente",
+            "imageUrl": "service_images/1000L.jpg"
+        }, {
+            "title": "POLYTANK 1500 litre",
+            "description": "Disponible en vente.",
+            "serviceType": "vente",
+            "imageUrl": "service_images/1500L.jpg"
+        }, {
+            "title": "POLYTANK 3000 litre",
+            "description": "Disponible en vente.",
+            "serviceType": "vente",
+            "imageUrl": "service_images/3000L.jpg"
+        }, {
+            "title": "POLYTANK fausse septique ",
+            "description": "Disponible en vente.",
+            "serviceType": "vente",
+            "imageUrl": "service_images/septique.jpg"
+        }, {
+            "title": "POUBELLE",
+            "description": "Disponible en vente.",
+            "serviceType": "vente",
+            "imageUrl": "service_images/poubelle1.jpg"
+        }, {
+            "title": "POUBELLE",
+            "description": "Disponible en vente.",
+            "serviceType": "vente",
+            "imageUrl": "service_images/poubelle2.jpg"
+        }, {
+            "title": "TOYOTA HILUX",
+            "description": "Disponible en location pour vos differents deplacements.",
+            "serviceType": "vehicule",
+            "imageUrl": "service_images/voiture3.jpg"
+        }, {
+            "title": "TOYOTA HILUX",
+            "description": "Disponible en location pour vos differents deplacements.",
+            "serviceType": "vehicule",
+            "imageUrl": "service_images/voiture4.jpg"
+        }, {
+            "title": "Toyota Land Cruiser Prado",
+            "description": "Disponible en location pour vos differents deplacements.",
+            "serviceType": "vehicule",
+            "imageUrl": "service_images/voiture5.jpg"
+        }
+    ]
+}

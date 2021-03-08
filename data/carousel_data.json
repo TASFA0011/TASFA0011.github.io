@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "imageUrl": "carousel_img/engin4.jpg",
+            "title": "AZI TRANSPORT ET LOGISTIQUE",
+            "type": "bull"
+        }, {
+            "imageUrl": "carousel_img/camion1.png",
+            "title": "AZI TRANSPORT ET LOGISTIQUE",
+            "type": "transport de marchandise"
+        }, {
+            "imageUrl": "carousel_img/engin6.jpg",
+            "title": "AZI TRANSPORT ET LOGISTIQUE",
+            "type": "engin lourd"
+        }, {
+            "imageUrl": "carousel_img/voiture2.jpg",
+            "title": "AZI TRANSPORT ET LOGISTIQUE",
+            "type": "voiture de luxe"
+        }, {
+            "imageUrl": "carousel_img/engin5.jpg",
+            "title": "AZI TRANSPORT ET LOGISTIQUE",
+            "type": "engin lour"
+        }
+    ]
+}
